@@ -12,3 +12,8 @@ Please check Jupyter notebook for comments.
 Assignment - 4 :
 https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/lab4_9/Dashboard1?publish=yes
 Please check the Jupyter notebooks for comments.
+
+Assignment - 6 :
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Assignment-6_1/Recruitstudentswiththerightskillsforthejob?publish=yes
+
+This gives a cognitive walk through for recruiters about skills of students in the MSIS program at SCU.
