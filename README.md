@@ -76,6 +76,31 @@ Roadmap to the Future:
 Now we understand the reason behind donations made by public, why cancers typically get more donations than heart diseases which account for the most number of deaths in the US. A future enhancement for this would be to look at how effective these donations are. Do these donations make a huge difference for the patients suffering from these diseases as whole or they are concentrated only on a set of patients that are lucky enough to receive these donations and if they are sufficient to ensure a long-term solution if possible.
 
 
+References :
+
+Original Redesign and Data -
+https://www.huffingtonpost.com/entry/false-visualizations-when_b_5736106.html
+
+Data on Treatment costs for various diseases -
+http://time.com/money/3557240/heart-disease-costs-prevention/
+http://www.ajmc.com/journals/issue/2010/2010-03-vol16-n03/ajmc_10marnicholswebx_e86to93
+https://well.blogs.nytimes.com/2010/11/12/the-cost-of-diabetes-care/
+http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html?referrer=https://www.google.com/?referrer=http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822976/
+https://www.webmd.com/prostate-cancer/news/20140619/cost-of-prostate-cancer-surgery-varies-widely-in-us#1
+http://depression.informedchoices.ca/types-of-treatment/medication-treatment/cost-of-medication/
+
+Data on Risks of contracting diseases -
+http://www.cnn.com/2007/HEALTH/06/14/healthmag.diseases/index.html
+http://www.cnn.com/2007/HEALTH/06/14/healthmag.diseases/index.html
+https://www.pcf.org/c/prostate-cancer-risk-factors/
+http://www.joslin.org/info/genetics_and_diabetes.html
+https://afsp.org/about-suicide/suicide-statistics/
+http://www.nytimes.com/2005/02/22/health/longtime-expert-on-als-now-knows-it-all-too-well.html
+https://www.livescience.com/3780-odds-dying.html#topkillers 
+https://www.livescience.com/3780-odds-dying.html#topkillers
+
+
 
 
 
