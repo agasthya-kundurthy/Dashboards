@@ -39,6 +39,7 @@ any metrics that can be used to compare the college with some other college.
 
 
 **Redesigned Visualization - 
+**Claim - SCU's MSIS, an optimal choice considering different metrics.**
 
 In this visualization, I have tried to incorporate several metrics such as Ranking of a university, Student Teacher Ratio and 
 the Acceptance Rate of the college in consideration. I have reasons as to why I had chosen the above metrics for comparison of 
