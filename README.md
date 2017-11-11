@@ -24,6 +24,9 @@ This gives a cognitive walk through for recruiters about skills of students in t
 https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Assignment-7_0/Redesigned-Dashboard?publish=yes
 Please refer the Python workbook for comments.
 
+**Assignment - 8 :**
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Assignment-8_0/Sheet1?publish=yes
+
 
 **Redesign Project :**
 
