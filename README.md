@@ -59,6 +59,8 @@ but when you consider Santa Clara, it meets all the metrics and has a better acc
 **In Future -**
 I could possible try to integrate it further into my old visualization and my redesigned version to give the student a better picture of the university. This would create a dashboard that would help the prospective student in learning both about the MSIS program in form of course tracks and skills that could be achieved and a comparison with other universities based on their preferences of ranking, student teacher ratio and acceptance rate of the university.
 
+**Note - **
+I have not edited the Jupyter file to match the data used for the Visualization becuase of the time constraints, but I have documented all my reasoning for the redesign done. 
 
 **Redesign Project :**
 
