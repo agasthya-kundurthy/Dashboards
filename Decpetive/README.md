@@ -1,6 +1,7 @@
 # Decpetive Visulaization Project 
 
 Motivation:
+
 In the modern world, there is are a lot of reasons for the demise of human beings. Various charities operate either in helping research for cures for these common causes or to help people suffering from these causes to get the appropriate treatment and hence we look at the most common causes of death in the US and the donations made to charities towards battling these causes.
 
 Objective:
