@@ -82,6 +82,10 @@ https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Decepti
 **Counter Argument** -
 https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Deceptive-Project-CounterArgument/FinalDashboard?publish=yes
 
+## Showcase Video -
+
+https://youtu.be/2GMYGQdGZZ8
+
 ## References:
 
 **Original Data**
