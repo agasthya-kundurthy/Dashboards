@@ -14,7 +14,7 @@ I feel that the program tracks play an important role in helping the recruiter u
 This part shows the skills that MSIS students have to offer to the recruiter, they are general skills that they offer, these skills might interest a recruiter (they might be relevant to the skills the recruiter is searching for). All the neccessary and important skills are mentioned here because, based on the type of recruiter and the job position that they are offering, the requirements change. So, this gives them an idea of what skills a MSIS student will have.
 
 ### Companies MSIS Alumni Work for
-This shows a basic list of companies that MSIS Alumni work for, this gives an idea for the recruiters about the companies that recruit from SCU(the level of the company would give them an idea of the level of the students, better companies take better students always). So, this might help them think, if this company is taking students from this place, it tells about the quality of the students.
+This shows a basic list of companies that MSIS Alumni work for, this gives an idea for the recruiters about the companies that recruit from SCU(the level of the company would give them an idea of the level of the students, better companies take better students always). So, this might help them think, if this company is taking students from this place, it tells about the quality of the students. In my original Visualization, I had used bubble charts, but I feel that it is better not to use them and so I have changed the graph to a tree map.
 
 ### What do employers think of our Alumni?
 This shows the positive experiences that the employers that recruited previously from the MSIS program have, this gives an idea about other possible recruiters (who might be a competitor), how they felt on recruiting a student from SCU, in what areas are these students strong and how to better utilize their talents in these areas.
@@ -27,4 +27,6 @@ The most important factor for any Recruiter to recruit student from a University
 https://docs.google.com/spreadsheets/d/1jjNTzv5Eo47Jby1pBffN9goL-s6Z1tpBNNQqNicJgMM/edit#gid=0
 https://www.scu.edu/
 
+### Tableau Public Link
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Assignment-9_0/Sheet3?publish=yes
 
