@@ -41,9 +41,17 @@ Based on further research for the possible causes of the variation in donations 
 
 
 ## Iterations (Intermediate Prototypes):
+### First Iteration
 In the first Iteration of my visualization, I had considered the data of the number of deaths due to the common causes and what were the donations from charity for the same. This has been represented as a Bar Chart, now it is easier to understand which diseases are getting more money from charity. But this still doesn’t clearly tell me why people donate more to these diseases. This graph is only useful in letting people understand a comparison on number of deaths caused by common causes and money donated from charity to these deaths. 
 
+<img width="1432" alt="screen shot 2017-11-17 at 9 14 15 pm" src="https://user-images.githubusercontent.com/32216541/32977157-55e8b58e-cbdc-11e7-8495-89723f28b822.png">
+
+
+### Second Iteration
 In the second Iteration of my Visualization, I had added the data of treatment costs per annum for the common causes of death. This gives me an idea about how effective the donations might be. But this also doesn’t explain about why there is a difference in the donation amounts.
+
+<img width="1369" alt="screen shot 2017-11-17 at 8 50 08 pm" src="https://user-images.githubusercontent.com/32216541/32977143-0bb5d9f6-cbdc-11e7-8c20-a0d07068f6f6.png">
+
 
 ## Final Visualization:
 Two visualization have been created to create the impact that a deceptive visualization would have on the reader.
@@ -52,13 +60,61 @@ Two visualization have been created to create the impact that a deceptive visual
 ‘Heart diseases cause more deaths but Cancers receive more donations’
 The first dashboard reflects my initial claim that is based on the data that I had chosen; a scatter plot is used in the visualization as a bar graph was not good because of the huge variations between two elements.
 
+<img width="996" alt="screen shot 2017-11-17 at 8 51 51 pm" src="https://user-images.githubusercontent.com/32216541/32977017-2fa5806c-cbd9-11e7-9570-a32d79c8d81e.png">
 
 ### Counter Argument
 ‘Cancers are less likely and more expensive, so they get more donations’.
 For the counter argument of my visualization of my visualization, I have included the likeliness of contracting(Risk) each of the most common causes of death. This along with the cost of treatment(Cost) lets me know that the highest donations are to diseases that are less likely to occur and at the same time have higher costs of treatment. I have represented this as a scatter plot because, the treatment costs of the disease and the risk of contracting those diseases are two separate entities, there are huge gaps in the costs of treatment and combining these could be effectively shown in a scatter plot. 
 In addition to this, I have combined the bar charts of my previous visualizations and changed the representation to a scatter plot which shows the number of deaths caused and donations received by the common causes of death. This gives a clearer picture to the reader as to the reason of why there is a huge difference in the donations received by heart diseases and cancers.
 
+<img width="1367" alt="screen shot 2017-11-17 at 9 15 36 pm" src="https://user-images.githubusercontent.com/32216541/32977163-7f6380ce-cbdc-11e7-9e1c-10e1dcea5c58.png">
+
+
 ## Roadmap to the Future:
 
 Now we understand the reason behind donations made by public, why cancers typically get more donations than heart diseases which account for the most number of deaths in the US. A future enhancement for this would be to look at how effective these donations are. Do these donations make a huge difference for the patients suffering from these diseases as whole or they are concentrated only on a set of patients that are lucky enough to receive these donations and if they are sufficient to ensure a long-term solution if possible.
 
+## Links to Tableau Public:
+
+**Intital Claim** -
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Deceptive-Project-IntialClaim/InitalDashboard?publish=yes
+
+**Counter Argument** -
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Deceptive-Project-CounterArgument/FinalDashboard?publish=yes
+
+## References:
+
+**Original Data**
+https://www.huffingtonpost.com/entry/false-visualizations-when_b_5736106.html
+
+**Data on treatment costs for various diseases**
+http://time.com/money/3557240/heart-disease-costs-prevention/ 
+
+http://www.ajmc.com/journals/issue/2010/2010-03-vol16-n03/ajmc_10marnicholswebx_e86to93
+
+https://well.blogs.nytimes.com/2010/11/12/the-cost-of-diabetes-care/
+
+http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html?referrer=https://www.google.com/?referrer=http://www.diabetes.org/advocacy/news-events/cost-of-diabetes.html 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4822976/ 
+
+https://www.webmd.com/prostate-cancer/news/20140619/cost-of-prostate-cancer-surgery-varies-widely-in-us#1 
+
+http://depression.informedchoices.ca/types-of-treatment/medication-treatment/cost-of-medication/
+
+**Data on Risks of common causes of deaths**
+http://www.cnn.com/2007/HEALTH/06/14/healthmag.diseases/index.html
+
+http://www.cnn.com/2007/HEALTH/06/14/healthmag.diseases/index.html
+
+https://www.pcf.org/c/prostate-cancer-risk-factors/ 
+
+http://www.joslin.org/info/genetics_and_diabetes.html
+
+https://afsp.org/about-suicide/suicide-statistics/ 
+
+http://www.nytimes.com/2005/02/22/health/longtime-expert-on-als-now-knows-it-all-too-well.html 
+
+https://www.livescience.com/3780-odds-dying.html#topkillers
+
+https://www.livescience.com/3780-odds-dying.html#topkillers
