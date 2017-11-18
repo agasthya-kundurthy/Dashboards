@@ -1,4 +1,4 @@
-# Decpetive Visulaization Project 
+# Deceptive Visualization Project 
 
 ## Motivation:
 
