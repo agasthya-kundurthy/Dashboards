@@ -1,7 +1,8 @@
 
 # Redesign Project
 
-**Link to Tableau public : https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Redesign-Project1/FinalDashboard?publish=yes
+**Link to Tableau public**
+https://public.tableau.com/profile/aashreya.agasthya.kundurthy#!/vizhome/Redesign-Project1/FinalDashboard?publish=yes
 
 **Link to showcase video : https://youtu.be/aLd6fcAVU8A
 
